@@ -1,8 +1,6 @@
 # Project Title
 
-````
 ### Wack A Mole
-````
 
 ## About
 
