@@ -14,4 +14,4 @@ Wack A Mole is an online web game.
 
 ## Preview Link
 
-	https://orsdev.github.io/wackamole/
+https://orsdev.github.io/wackamole/
